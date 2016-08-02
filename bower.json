@@ -1,0 +1,20 @@
+{
+  "name": "ospcomponentlibrary",
+  "description": "",
+  "main": "dist/name.js",
+  "authors": [
+    "keyadesai"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "~1.0.6"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
